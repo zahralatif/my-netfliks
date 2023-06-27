@@ -16,6 +16,14 @@
     align-items: center;
 }
 
+.enjoyTV, .download, .watch, .kids {
+    margin: auto;
+}
+
+.download {
+    margin: auto;
+}
+
 h1 {
     font-size: 3rem;
     font-weight: 900;
@@ -26,20 +34,18 @@ h4 {
     font-weight: 400;
 }
 
-// .leftpart {
-//     text-align: left;
-//     // padding-right: 0.375rem;
-//     // width: 50%;
-//     // padding-top: 230px;
-//     // float: left;
-// }
+.leftpart {
+    margin: auto;
+}
 
-// .rightpart{
-//     // padding-left: 0.375rem;
-//     // width: 50%;
-// }
+.rightpart {
+    margin: auto;
 
-.leftpart img, .rightpart img{
+}
+
+.leftpart img,
+.rightpart img {
     width: 400px;
+    margin: auto;
     // padding: 5px;
 }
