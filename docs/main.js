@@ -255,7 +255,7 @@ HeaderComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__[
   selectors: [["app-header"]],
   decls: 8,
   vars: 0,
-  consts: [[1, "container"], [1, "d-flex", "flex-wrap", "align-items-center", "justify-content-center", "justify-content-md-between", "py-3", "mb-4"], [1, "col-md-3", "mb-2", "mb-md-0"], ["href", "/", 1, "d-inline-flex", "link-body-emphasis", "text-decoration-none"], ["width", "150", "height", "100", "role", "img", "src", "../../assets/images/Netflix-logo-red-black-png-removebg-preview.png", "alt", "", 1, "bi"], [1, "col-md-3", "text-end"], ["type", "button", "mat-flat-button", "", "color", "warn", 1, "btn"]],
+  consts: [[1, "container"], [1, "d-flex", "flex-wrap", "align-items-center", "justify-content-center", "justify-content-md-between", "py-3", "mb-4"], [1, "col-md-3", "mb-2", "mb-md-0"], ["href", "/", 1, "d-inline-flex", "link-body-emphasis", "text-decoration-none"], ["width", "150", "height", "100", "role", "img", "src", "assets/images/Netflix-logo-red-black-png-removebg-preview.png", "alt", "", 1, "bi"], [1, "col-md-3", "text-end"], ["type", "button", "mat-flat-button", "", "color", "warn", 1, "btn"]],
   template: function HeaderComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "header", 1)(2, "div", 2)(3, "a", 3);
